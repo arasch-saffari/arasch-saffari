@@ -10,19 +10,19 @@ If your non-profit endeavor in the political, social, or cultural sphere is seek
 ## I'm proficient in the following technologies:
   
 
-(https://skillicons.dev/icons?i=linux,bash,html,sass,tailwind,bootstrap,ps,figma,xd,pr,git,docker,wordpress)
+https://skillicons.dev/icons?i=linux,bash,html,sass,tailwind,bootstrap,ps,figma,xd,pr,git,docker,wordpress
 
   
   
 
 ## Currently, I'm deepening my understanding of:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,apollo,appwrite,astro,express,graphql,mongodb	)]
+https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,apollo,appwrite,astro,express,graphql,mongodb
 
   
   
 
 ## In the future, I'm keen to explore:
-[![My Skills](https://skillicons.dev/icons?i=arduino,go,mysql,supabase,solidity,svelte,vim)]
+https://skillicons.dev/icons?i=arduino,go,mysql,supabase,solidity,svelte,vim
 
   
   
