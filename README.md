@@ -1,19 +1,34 @@
-### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Hi there 👋
 
+## I'm Arasch from the beautiful city of Cologne, Germany. 
+### With a heart deeply rooted in both art and programming, I thrive on blending these worlds.
 
-<!--
-**arasch-saffari/arasch-saffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If your non-profit endeavor in the political, social, or cultural sphere is seeking insights or backing, please know I'm eager to share my experience and lend a hand.
+  
 
-Here are some ideas to get you started:
+## I'm proficient in the following technologies:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,html,sass,tailwind,bootstrap,ps,figma,xd,pr,git,docker,wordpress)]
+
+  
+  
+
+## Currently, I'm deepening my understanding of:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,apollo,appwrite,astro,express,graphql,mongodb	)]
+
+  
+  
+
+## In the future, I'm keen to explore:
+[![My Skills](https://skillicons.dev/icons?i=arduino,go,mysql,supabase,solidity,svelte,vim)]
+
+  
+  
+
+Warm regards,
+
+  
+
+Arasch
