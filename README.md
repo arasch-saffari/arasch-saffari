@@ -8,7 +8,6 @@ If your non-profit endeavor in the political, social, or cultural sphere is seek
   
 
 ## I'm proficient in the following technologies:
-
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,html,sass,tailwind,bootstrap,ps,figma,xd,pr,git,docker,wordpress)]
 
 
